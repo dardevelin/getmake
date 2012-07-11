@@ -1,1 +1,1 @@
-$HOME/Templates/code/$1
+cat $HOME/Templates/code/$1
