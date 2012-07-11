@@ -2,6 +2,9 @@
 getmake is a small group of poorly set bash scripts
 to facilitate makefile and Cmakefile integration with projects
 
+# LICENSE GPLv3
+see COPYING file for more information about it
+
 ## SETTING UP
 most linux distribuitions have a .bashrc file in the user
 home directory, if yours doesn't you will need to make your own
@@ -18,7 +21,7 @@ later versions will allow automatic install and configuraton for now
 if you want changes you need to manually edit the .sh files
 
 make a directory in home directory:
-    mkdir .getmake
+ - mkdir .getmake
 
 add the following list of files in there
  - getmake.sh
@@ -37,10 +40,9 @@ all should be working
 
 
 ###quick tour
- - getmake-ls           | lists your templates
- - getmake-cat filename | shows the contents of filename in templates
- - getmake-add file_to_add template_name |
- - getmake-rm  filename | removes filename from templates
-getmake-edit "editor and flags" filename
+ - getmake-ls             | lists your templates
+ - getmake-cat filename   | shows the contents of filename in templates
+ - getmake-rm  filename   | removes filename from templates
+ - getmake-add file_to_add template_name
+ - getmake-edit "editor and flags" filename
 
-## LICENSE GPLv3 see COPYING file
