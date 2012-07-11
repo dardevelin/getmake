@@ -37,10 +37,10 @@ all should be working
 
 
 ###quick tour
-getmake-ls           | lists your templates
-getmake-cat filename | shows the contents of filename in templates
-getmake-add file_to_add template_name |
-getmake-rm  filename | removes filename from templates
+ - getmake-ls           | lists your templates
+ - getmake-cat filename | shows the contents of filename in templates
+ - getmake-add file_to_add template_name |
+ - getmake-rm  filename | removes filename from templates
 getmake-edit "editor and flags" filename
 
 ## LICENSE GPLv3 see COPYING file
