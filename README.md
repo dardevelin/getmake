@@ -2,7 +2,7 @@
 getmake is a small group of poorly set bash scripts
 to facilitate makefile and Cmakefile integration with projects
 
-# LICENSE GPLv3
+## LICENSE GPLv3
 see COPYING file for more information about it
 
 ## SETTING UP
