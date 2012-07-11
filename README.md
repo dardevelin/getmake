@@ -17,8 +17,8 @@ either way the alias you need to include in your file are all in
 .bash_aliases in this repository
 
 your template code should live in a your home directory /Templates/code
-later versions will allow automatic install and configuraton for now
-if you want changes you need to manually edit the .sh files
+later versions will allow automatic install and configure everything for you,
+however for now if you want changes you need to manually by editing the .sh files
 
 make a directory in home directory:
  - mkdir .getmake
