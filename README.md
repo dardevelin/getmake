@@ -1,4 +1,4 @@
-#getmake 
+#getmake
 getmake is a small group of poorly set bash scripts
 to facilitate makefile and Cmakefile integration with projects
 
@@ -43,3 +43,4 @@ getmake-add file_to_add template_name |
 getmake-rm  filename | removes filename from templates
 getmake-edit "editor and flags" filename
 
+## LICENSE GPLv3 see COPYING file
